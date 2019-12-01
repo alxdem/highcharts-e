@@ -1,0 +1,14 @@
+export { default as arrow } from './arrow';
+export { default as arrow2 } from './arrow2';
+export { default as arrow3 } from './arrow3';
+export { default as cancel } from './cancel';
+export { default as phone } from './phone';
+export { default as pen } from './pen';
+export { default as burger } from './burger';
+export { default as play } from './play';
+export { default as leaf } from './leaf';
+export { default as instagram } from './instagram';
+export { default as youtube } from './youtube';
+export { default as vk } from './vk';
+export { default as fb } from './fb';
+export { default as download } from './download';

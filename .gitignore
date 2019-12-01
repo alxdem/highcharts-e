@@ -1,9 +1,23 @@
+###########
+# Folders #
+###########
+.hg/*
+.git/*
+.idea/*
+node_modules/*
+.next/*
+**/_trash/*
+yarn-error.log
+
+######################
+# OS generated files #
+######################
 .DS_Store
-.idea
-*.ai
-*.log
-*.pdf
-*.psd
-*.sublime*
-node_modules/
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+desktop.ini
+.docz/*
